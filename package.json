@@ -1,0 +1,27 @@
+{
+	"name": "mystery-inc",
+	"version": "0.0.1",
+	"description": "Istanbul code coverage reporter for CasperJS",
+	"author": {
+		"name": "Yannick Croissant",
+		"url": "http://github.com/yannickcr"
+	},
+	"repository": {
+		"url": "https://github.com/yannickcr/MysteryInc",
+		"type": "git"
+	},
+	"keywords": [
+		"casperjs",
+		"codecoverage",
+		"istanbul",
+		"phantomjs",
+		"spookyjs"
+	],
+	"dependencies": {
+		"istanbul": "0.1.x",
+		"request": "2.12.x"
+	},
+	"peerDependencies": {
+		"spooky": "x.x.x"
+	}
+}
